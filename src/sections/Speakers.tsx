@@ -16,7 +16,7 @@ const Speakers = () => {
         },
         {
           title: "SOPE ADELAJA",
-          details: "Founder/Creative Director, LFD Media",
+          details: "Founder (Recreate Africa)/Photographer",
           src: "/assets/Sope.jpg",
         },
         {
