@@ -7,6 +7,11 @@
   --font-montserrat: 'Montserrat', serif;
 }
 
+html, body {
+  background-color: #000000;
+  color: #ffffff;
+}
+
 
 .custom-shape-divider-bottom-1735504369 {
   position: absolute;
