@@ -11,17 +11,17 @@ const Speakers = () => {
         },
         {
           title: "FOLAKE AYO-DAVIS",
-          details: "Founder/Creative Director, LFD Media",
+          details: "Lawyer & Policy Analyst",
           src: "/assets/Folake.jpg",
         },
         {
           title: "SOPE ADELAJA",
-          details: "Author/Fashion Entrepreneur",
+          details: "Founder/Creative Director, LFD Media",
           src: "/assets/Sope.jpg",
         },
         {
           title: "AYANIME EDEM",
-          details: "Lawyer & Policy Analyst",
+          details: "Author/Fashion Entrepreneur",
           src: "/assets/Ayanime.jpg",
         },
         {
